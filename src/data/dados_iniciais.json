@@ -1,101 +1,73 @@
 {
   "categorias": [
     {
-      "titulo": "Viagens",
-      "link": "https://www.youtube.com/watch?v=CeqNndpvHIA",
+      "titulo": "Ciência",
+      "link": "https://www.youtube.com/watch?v=-VRWHE4EPAo",
       "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Tirando ferrugem usando pilhas!!",
+          "url": "https://www.youtube.com/watch?v=-VRWHE4EPAo"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Onde estão todos os alienígenas?",
+          "url": "https://www.youtube.com/watch?v=YJsPmC8e7A4"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "O que seu DNA diz sobre você?",
+          "url": "https://www.youtube.com/watch?v=WH4hqF7yCaQ"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Como os cientistas CRIAM uma VACINA?",
+          "url": "https://www.youtube.com/watch?v=zfWnJN87LeY&t=453s"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "How NASA's Perseverance Mars Rover's Technology Will Help Astronauts Explore Mars",
+          "url": "https://www.youtube.com/watch?v=Q4r1_HcRYmI"
+        }     
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Viagens",
       "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "7 DESTINOS BARATOS no BRASIL que vou PÓS PANDEMIA",
+          "url": "https://www.youtube.com/watch?v=r6EJYB-hTcY"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "DORMIMOS na BEIRA DA PRAIA em MARAGOGI",
+          "url": "https://www.youtube.com/watch?v=syD1LQ0NwzU&t=77s"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "TOP 5 lugares INCRÍVEIS na ISLÂNDIA que você não vai acreditar que existem",
+          "url": "https://www.youtube.com/watch?v=RqxDPUS9B2o"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "TOUR DO NOSSO MOTORHOME!! (KOMBI HOME)",
+          "url": "https://www.youtube.com/watch?v=ug7uA3Teijg&t=116s"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Séries",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Lucifer",
+          "url": "https://www.youtube.com/watch?v=3mTh2joPPj8"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Blindspot",
+          "url": "https://www.youtube.com/watch?v=NpdErq1WI9o"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "13 REASONS WHY",
+          "url": "https://www.youtube.com/watch?v=QkT-HIMSrRk"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Stranger Things",
+          "url": "https://www.youtube.com/watch?v=mnd7sFt5c3A"
         }
       ]
     },
@@ -104,55 +76,48 @@
       "cor": "orange",
       "videos": [
         {
+          "titulo": "Back To The Future (1985)",
+          "url": "https://www.youtube.com/watch?v=qvsgGtivCgs"
+        },
+        {
+          "titulo": "WONDER",
+          "url": "https://www.youtube.com/watch?v=Ob7fPOzbmzE"
+        },
+        {
           "titulo": "Interestellar",
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "A Cabana",
+          "url": "https://www.youtube.com/watch?v=tbpGAowldac"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "DIY",
       "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "MESINHA DE 7 MIL REAIS ! COMO FAZER?",
+          "url": "https://www.youtube.com/watch?v=YL4DRyFUhcg"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "24 COOL DECORATIVE IDEAS YOU CAN DIY",
+          "url": "https://www.youtube.com/watch?v=Uv-KC7szPN0&t=266s"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Como fazer Instalação Elétrica Aparente",
+          "url": "https://www.youtube.com/watch?v=ZfNYm52-Yb8"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "20 Gardening Hacks That Will Blow Your Mind!! ",
+          "url": "https://www.youtube.com/watch?v=vkbn499wsWc"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Dev",
       "cor": "#6b5be2",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
@@ -160,8 +125,12 @@
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
         },
         {
           "titulo": "Faculdade",

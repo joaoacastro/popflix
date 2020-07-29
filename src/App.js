@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"Tirar ferrugem em casa é possível e não requer esforço físico! Na verdade, tem que acontecer um processo físico-químico. Como fazer isso? Com o poder da eletrólise! Não acredita? Confira no vídeo o antes e depois de um alicate e um ralo que já estavam condenados! Essa experiência, que também é uma dica doméstica valiosa, irá acabar com esse problema!"}
       />
 
       <Carousel
