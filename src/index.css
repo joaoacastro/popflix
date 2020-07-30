@@ -48,7 +48,8 @@ label{
   border-color: red;
   border-radius: 10px;
 }
-input{
+input,
+textarea{
   margin-left: 10px;
   border-radius: 10px;
 }
