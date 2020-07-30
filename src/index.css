@@ -29,3 +29,26 @@ a {
   display: flex;
   flex-direction: column;
 }
+form{
+
+}
+button{
+  margin-top: 10px;
+  border-radius: 10px;
+}
+label{
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: flex-start;
+}
+.box{
+  border-style: ridge;
+  border-color: red;
+  border-radius: 10px;
+}
+input{
+  margin-left: 10px;
+  border-radius: 10px;
+}
