@@ -1,16 +1,208 @@
 {
-    "categorias": [
+    "categorias":[
         {
-            "id": 1,
-            "nome": "Front End",
-            "descricao": "Uma categoria bacanuda",
+            "categoriaId": 1,
+            "titulo": "Ciencia",
             "cor": "#6BD1FF"
         },
         {
-            "id": 2,
-            "nome": "Back End",
-            "descricao": "Outra categoria bacanuda",
-            "cor": "#6BD1FF"
+            "categoriaId": 2,
+            "titulo": "Viagens",
+            "cor": "#00C86F"
+        },
+        {
+            "categoriaId": 3,
+            "titulo": "Séries",
+            "cor": "#9cd33b"
+        },
+        {
+            "categoriaId": 4,
+            "titulo": "Filmes",
+            "cor": "orange"
+        },
+        {
+            "categoriaId": 5,
+            "titulo": "DIY",
+            "cor": "red"
+        },
+        {
+            "categoriaId": 6,
+            "titulo": "DEV",
+            "cor": "#6b5be2"
+        }
+    ],
+    "videos":[
+        {
+            "videos": [
+                {
+                    "id": 1,
+                    "categoriaId": 1,
+                    "titulo": "Tirando ferrugem usando pilhas!!",
+                    "url": "https://www.youtube.com/watch?v=-VRWHE4EPAo"
+                },
+                {
+                    "id": 2,
+                    "categoriaId": 1,
+                    "titulo": "Onde estão todos os alienígenas?",
+                    "url": "https://www.youtube.com/watch?v=YJsPmC8e7A4"
+                },
+                {
+                    "id": 3,
+                    "categoriaId": 1,
+                    "titulo": "O que seu DNA diz sobre você?",
+                    "url": "https://www.youtube.com/watch?v=WH4hqF7yCaQ"
+                },
+                {
+                    "id": 4,
+                    "categoriaId": 1,
+                    "titulo": "Como os cientistas CRIAM uma VACINA?",
+                    "url": "https://www.youtube.com/watch?v=zfWnJN87LeY&t=453s"
+                },
+                {
+                    "id": 5,
+                    "categoriaId": 1,
+                    "titulo": "How NASA's Perseverance Mars Rover's Technology Will Help Astronauts Explore Mars",
+                    "url": "https://www.youtube.com/watch?v=Q4r1_HcRYmI"
+                },
+                {
+                    "id": 6,
+                    "categoriaId": 2,
+                    "titulo": "7 DESTINOS BARATOS no BRASIL que vou PÓS PANDEMIA",
+                    "url": "https://www.youtube.com/watch?v=r6EJYB-hTcY"
+                },
+                {
+                    "id": 7,
+                    "categoriaId": 2,
+                    "titulo": "DORMIMOS na BEIRA DA PRAIA em MARAGOGI",
+                    "url": "https://www.youtube.com/watch?v=syD1LQ0NwzU&t=77s"
+                },
+                {
+                    "id": 8,
+                    "categoriaId": 2,
+                    "titulo": "TOP 5 lugares INCRÍVEIS na ISLÂNDIA que você não vai acreditar que existem",
+                    "url": "https://www.youtube.com/watch?v=RqxDPUS9B2o"
+                },
+                {
+                    "id": 9,
+                    "categoriaId": 2,
+                    "titulo": "TOUR DO NOSSO MOTORHOME!! (KOMBI HOME)",
+                    "url": "https://www.youtube.com/watch?v=ug7uA3Teijg&t=116s"
+                },
+                {
+                    "id": 10,
+                    "categoriaId": 3,
+                    "titulo": "Lucifer",
+                    "url": "https://www.youtube.com/watch?v=3mTh2joPPj8"
+                },
+                {
+                    "id": 11,
+                    "categoriaId": 3,
+                    "titulo": "Blindspot",
+                    "url": "https://www.youtube.com/watch?v=NpdErq1WI9o"
+                },
+                {
+                    "id": 12,
+                    "categoriaId": 3,
+                    "titulo": "13 REASONS WHY",
+                    "url": "https://www.youtube.com/watch?v=QkT-HIMSrRk"                  
+                },
+                {
+                    "id": 13,
+                    "categoriaId": 3,
+                    "titulo": "Stranger Things",
+                    "url": "https://www.youtube.com/watch?v=mnd7sFt5c3A"
+                },
+                {
+                    "id": 14,
+                    "categoriaId": 4,
+                    "titulo": "Back To The Future (1985)",
+                    "url": "https://www.youtube.com/watch?v=qvsgGtivCgs"
+                },
+                {
+                    "id": 15,
+                    "categoriaId": 4,
+                    "titulo": "WONDER",
+                    "url": "https://www.youtube.com/watch?v=Ob7fPOzbmzE"
+                },
+                {
+                    "id": 16,
+                    "categoriaId": 4,
+                    "titulo": "Interestellar",
+                    "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+                },
+                {
+                    "id": 17,
+                    "categoriaId": 4,
+                    "titulo": "A Cabana",
+                    "url": "https://www.youtube.com/watch?v=tbpGAowldac"
+                },
+                {
+                    "id": 18,
+                    "categoriaId": 5,
+                    "titulo": "MESINHA DE 7 MIL REAIS ! COMO FAZER?",
+                    "url": "https://www.youtube.com/watch?v=YL4DRyFUhcg"
+                },
+                {
+                    "id": 19,
+                    "categoriaId": 5,
+                    "titulo": "24 COOL DECORATIVE IDEAS YOU CAN DIY",
+                    "url": "https://www.youtube.com/watch?v=Uv-KC7szPN0&t=266s"
+                },
+                {
+                    "id": 20,
+                    "categoriaId": 5,
+                    "titulo": "Como fazer Instalação Elétrica Aparente",
+                    "url": "https://www.youtube.com/watch?v=ZfNYm52-Yb8"
+                },
+                {
+                    "id": 21,
+                    "categoriaId": 5,
+                    "titulo": "20 Gardening Hacks That Will Blow Your Mind!! ",
+                    "url": "https://www.youtube.com/watch?v=vkbn499wsWc"
+                },
+                {
+                    "id": 22,
+                    "categoriaId": 6,
+                    "text": "Curso sobre aprendizado na Alura",
+                    "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+                },
+                {
+                    "id": 23,
+                    "categoriaId": 6,
+                    "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+                    "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+                },
+                {
+                    "id": 24,
+                    "categoriaId": 6,
+                    "titulo": "Novidades do Angular v9",
+                    "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+                },
+                {
+                    "id": 25,
+                    "categoriaId": 6,
+                    "titulo": "Faculdade",
+                    "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+                },
+                {
+                    "id": 26,
+                    "categoriaId": 6,
+                    "titulo": "Frameworks",
+                    "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+                },
+                {
+                    "id": 27,
+                    "categoriaId": 6,
+                    "titulo": "A mágica do Aprendizado",
+                    "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+                },
+                {
+                    "id": 28,
+                    "categoriaId": 6,
+                    "titulo": "Como aprender a programar?",
+                    "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+                }
+            ]
         }
     ]
 }
