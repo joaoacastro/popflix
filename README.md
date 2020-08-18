@@ -11,5 +11,5 @@ npm install
 npm start
 ```
 
-## License/Licença do Projeto
-[MIT License](./LICENSE) © [Alura](http://alura.com.br/)
+## Licença do Projeto
+© [Alura](http://alura.com.br/)
